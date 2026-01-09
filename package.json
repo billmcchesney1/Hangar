@@ -61,7 +61,7 @@
     "delay": "400"
   },
   "dependencies": {
-    "@slack/bolt": "^2.3.0",
+    "@slack/bolt": "^3.0.0",
     "@slack/types": "^1.9.0",
     "@slack/web-api": "^5.12.0",
     "@slack/webhook": "^5.0.2",
